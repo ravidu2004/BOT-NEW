@@ -81,8 +81,8 @@
 [![nima](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
-y
+
 <b>COPY DEPLOY CODE</b></br>
 
-<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z/499"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-red"  width="350"></a>
+<a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z/499"><img src="https://img.shields.io/badge/COPY%20DEPLOY%20CODE-red"  width="350"></a>
 
